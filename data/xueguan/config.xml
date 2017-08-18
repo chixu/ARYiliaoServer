@@ -1,0 +1,11 @@
+<config version="1.0.2" preversion="">
+  <update>
+  </update>
+  <all size="2">
+    <path>xueguan/{%platform%}/xueguan.dlc</path>
+    <path>xueguan/xueguan.dat</path>
+    <path>xueguan/xueguan.xml</path>
+    <path>xueguan/iteminfos.xml</path>
+    <path>xueguan/heart.mp4</path>
+  </all>
+</config>

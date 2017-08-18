@@ -1,0 +1,12 @@
+<items>
+	<item id="jingmai_quanshen" type="object" prefab="xueguan">
+		<togglebutton id="jingmai" label="jingmai" show="true" action="showhide"/>
+		<togglebutton id="dongmai" label="dongmai" show="false" action="showhide"/>
+	</item>
+	<item id="heart_movie" type="video" videosrc="heart.mp4" scalez="0.6" scalex="0.9"/>
+	<item id="heart_model_vessel" type="object" prefab="heart" scalez="0.8" scaley="0.8" scalex="0.8"/>
+	<item id="dongmai_quanshen" type="object" prefab="xueguan">
+		<togglebutton id="jingmai" label="jingmai" show="false" action="showhide"/>
+		<togglebutton id="dongmai" label="dongmai" show="true" action="showhide"/>
+	</item>
+</items>

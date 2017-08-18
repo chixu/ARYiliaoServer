@@ -1,0 +1,15 @@
+<items>
+	<item id="video1" type="video" videosrc="video/item1.mp4" scalez="0.6" scalex="0.9"/>
+	<item id="menu" type="menu4">
+		<menuitem id="item1" type="object" src="item1.png" prefab="molecule" subtitle="subtitle/item1.xml"/>
+		<menuitem id="item2" type="video" src="item2.png" videosrc="video/item2.mp4"/>
+		<menuitem id="item3" type="video" src="item3.png" videosrc="video/item3.mp4"/>
+		<menuitem id="item4" type="object" src="item4.png" prefab="bodywrapper" subtitle="subtitle/item4.xml" scalex="0.5" scaley="0.5" scalez="0.5"/>
+	</item>
+	<item id="menu2" type="menu4">
+		<menuitem id="item1" type="object" src="item1.png" prefab="molecule" subtitle="subtitle/item1.xml"/>
+		<menuitem id="item2" type="video" src="item2.png" videosrc="video/item2.mp4"/>
+		<menuitem id="item3" type="video" src="item3.png" videosrc="video/item3.mp4"/>
+		<menuitem id="item4" type="object" src="item4.png" prefab="bodywrapper" subtitle="subtitle/item4.xml" scalex="0.5" scaley="0.5" scalez="0.5"/>
+	</item>
+</items>
