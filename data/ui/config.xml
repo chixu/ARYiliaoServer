@@ -1,4 +1,4 @@
-<config version="1.0.5" preversion="">
+<config version="1.0.7" preversion="">
   <trackers>
     <tracker name="unity">
       <events>
@@ -9,8 +9,6 @@
     </tracker>
   </trackers>
   <update>
-    <path>ui/ui.xml</path>
-    <path>ui/i18n.xml</path>
   </update>
   <all>
     <path>ui/bg.jpg</path>

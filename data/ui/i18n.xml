@@ -5,20 +5,18 @@
 		<item key="select_phone" value="电话:0571-86660008"></item>
 		<item key="select_email" value="邮箱:hezuo@iyoovr.com"></item>
 		<item key="wutian" value="武 田 中 国"></item>
-		<item key="xueguan" value="血 管 通"></item>
+		<item key="xueguan" value="血 管 医 疗"></item>
 		<item key="wutian_desc" value="请扫描武田中国&quot;亚宁定&quot;系列DA"></item>
-		<item key="xueguan_desc" value="请扫描上海科学技术出版社出版的《血管通》"></item>
+		<item key="xueguan_desc" value=""></item>
 		<item key="wutian_target" value="武田中国&quot;亚宁定&quot;系列DA"></item>
-		<item key="xueguan_target" value="上海科学技术出版社出版的《血管通》"></item>
+		<item key="xueguan_target" value=""></item>
 		<item key="wutian_infolink" value="/guide/wutian"></item>
 		<item key="xueguan_infolink" value="/guide/xueguan"></item>
-		<item key="xueguan_scan_desc" value="血 管 通"></item>
+		<item key="xueguan_scan_desc" value="血 管 医 疗"></item>
 		<item key="item2" value="AR医疗"></item>
 		<item key="item3" value="AR普陀山导览3"></item>
 		<item key="wutian_scan_title" value="AR扫描"></item>
-		<item key="wutian_scan_desc" value="武 田 中 国"></item>
-		<item key="item2_scan_title" value="AR扫描"></item>
-		<item key="item2_scan_desc" value="请扫描普陀山的名胜风景"></item>
+		<item key="xueguan_scan_title" value="AR扫描"></item>
 		<item key="loading_desc" value="正在加载{0}资源 "></item>
 		<item key="ok" value="确定"></item>
 		<item key="cancel" value="取消"></item>

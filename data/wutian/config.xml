@@ -1,8 +1,7 @@
-<config version="1.0.2" preversion="">
-  <update>
+<config version="1.0.3" preversion="">
+  <update size="2">
   </update>
   <all size="2">
-    <path>wutian/{%platform%}/myassets.dlc</path>
     <path>wutian/demo1.dat</path>
     <path>wutian/demo1.xml</path>
     <path>wutian/iteminfos.xml</path>
@@ -15,5 +14,6 @@
     <path>wutian/video/item3.mp4</path>
     <path>wutian/subtitle/item1.xml</path>
     <path>wutian/subtitle/item4.xml</path>
+    <path>wutian/{%platform%}/myassets.dlc</path>
   </all>
 </config>
