@@ -1,0 +1,10 @@
+<config version="1.0.2" preversion="">
+  <update>
+  </update>
+  <all size="1">
+    <path size="0.15">item1/{%platform%}/putuo.dlc</path>
+    <path size="0.03">item1/putuo.dat</path>
+    <path size="0.01">item1/putuo.xml</path>
+    <path size="0.01">item1/iteminfos.xml</path>
+  </all>
+</config>

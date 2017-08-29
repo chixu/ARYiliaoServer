@@ -1,0 +1,125 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<title>AR福游</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<style>
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    body{
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #222222;
+    }
+    html , body{
+        height: 100%;
+        width: 100%;
+        /*只显示一屏页面*/
+        /*overflow: hidden;*/
+    }
+    #box{
+        position: relative;
+        height: 100%;
+        width: 100%;
+    }
+    #loading{
+        text-align: center;
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+    }
+    #loading a{
+        color: #ffffff;
+        display: inline-block;
+        border: 1px solid #cccccc;
+        width: 200px;
+        height: 40px;
+        line-height: 40px;
+        padding: 5px;
+        border-radius: 8px;
+        background-color: #96c322;
+        font-size: 2em;
+    }
+    #pic{
+        text-align: center;
+        position: absolute;
+        width: 100%;
+    }
+    #pic img{
+        width: 70%;
+        padding-top: 100px;
+    }
+    #shade{
+        position: relative;
+        /*水平居中*/
+        text-align: center;
+        width: 100%;
+        height: 100%;
+        background-color:rgba(0,0,0,0.5);
+    }
+    #shade p{
+        position: absolute;
+        color: white;
+        font-size: 3em;
+        text-align: center;
+        top:50%;
+        width: 100%;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+    }
+    #title{
+        position: absolute;
+        margin-top: 30px;
+        width: 100%;
+    }
+    #title h2{
+        text-align: center;
+        width: 100%;
+        font-size: 35px;
+        font-family: "Adobe 楷体 Std R";
+    }
+</style>
+<script type="text/javascript">
+    window.onload = function(){
+        if(isWeiXin()){
+            var shade = document.getElementById('shade')
+            shade.style.display = 'block'
+        }
+    }
+    function isWeiXin(){
+        var ua = window.navigator.userAgent.toLowerCase();
+        if(ua.match(/MicroMessenger/i) == 'micromessenger'){
+            return true;
+        }else{
+            return false;
+        }
+    }
+</script>
+</head>
+
+<body>
+<div id="box">
+    <div id="pic">
+        <div id="title">
+            <h2>AR福游</h2>
+        </div>
+        <img src="qr.png">
+    </div>
+    <div id="loading">
+		<a id='load' href="http://www.iyoovr.com/apk/dfy78ex9.apk">安卓下载</a>
+		<br/><br/>
+		<a id='load' href="https://itunes.apple.com/us/app/ar%E7%A6%8F%E6%B8%B8/id1264932693?ls=1&mt=8">IOS下载</a>
+    </div>
+    <div id="shade" style="display: none"> 
+         <p>无法在微信中下载app,<br>请打开左上角按钮选择浏览器进行下载</p>
+    </div>
+</div>
+</body>
+
+</html>

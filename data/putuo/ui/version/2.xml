@@ -1,0 +1,11 @@
+<config version="2" preversion="1">
+	<update>
+		<path>ui/ui.xml</path>
+	</update>
+	<all>
+		<path>ui/ui.xml</path>
+		<path>ui/i18n.xml</path>
+		<path>ui/icon1.png</path>
+		<path>ui/icon2.png</path>
+	</all>
+</config>
