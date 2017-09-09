@@ -1,0 +1,58 @@
+<lang>
+	<cn>
+		<item key="select_tab0" value="菜单"></item>
+		<item key="select_tab1" value="扫描"></item>
+		<item key="select_tab2" value="关于"></item>
+		<item key="select_title0" value="选择扫描主题"></item>
+		<item key="select_title1" value="扫一扫"></item>
+		<item key="select_title2" value="联系我们"></item>
+		<item key="select_cooperate" value="商务合作"></item>
+		<item key="select_phone" value="电话:0571-86660008"></item>
+		<item key="select_email" value="邮箱:hezuo@iyoovr.com"></item>
+		<item key="wutian" value="武 田 中 国"></item>
+		<item key="xueguan" value="血 管 医 疗"></item>
+		<item key="wutian_desc" value="请扫描武田中国&quot;亚宁定&quot;系列DA"></item>
+		<item key="xueguan_desc" value=""></item>
+		<item key="wutian_target" value="武田中国&quot;亚宁定&quot;系列DA"></item>
+		<item key="xueguan_target" value=""></item>
+		<item key="wutian_infolink" value="/guide/wutian"></item>
+		<item key="xueguan_infolink" value="/guide/xueguan"></item>
+		<item key="xueguan_scan_desc" value="血 管 医 疗"></item>
+		<item key="item2" value="AR医疗"></item>
+		<item key="item3" value="AR普陀山导览3"></item>
+		<item key="wutian_scan_title" value="AR扫描"></item>
+		<item key="xueguan_scan_title" value="AR扫描"></item>
+		<item key="loading_desc" value="正在加载{0}资源 "></item>
+		<item key="ok" value="确定"></item>
+		<item key="cancel" value="取消"></item>
+		<item key="show" value="显示"></item>
+		<item key="hide" value="隐藏"></item>
+		<item key="jingmai" value="静脉"></item>
+		<item key="dongmai" value="动脉"></item>
+		<item key="tiptitle" value="使 用 方 法"/>
+		<item key="tip1" value="1.在{0}上选择识别图片"/>
+		<item key="tip2" value="2.如果没有上述实体图片,可以在&lt;color=#28BFFF&gt;&lt;b&gt;这里&lt;/b&gt;&lt;/color&gt;获取。然后发送到电脑或用其他手机打开，也可以打印出来(黑白彩色均可)"/>
+		<item key="tip3" value="3.将摄像头对准AR识别图片，就会出现精彩内容啦！"/>
+		<item key="not_in_wifi" value="发现{0}资源需下载,当前处于非wifi网络,是否继续下载资源"></item>
+	</cn>
+	<en>
+		<item key="select_title" value="Select Target"></item>
+		<item key="select_contactus" value="Contact us"></item>
+		<item key="select_phone" value="Tel:0571-86660008"></item>
+		<item key="select_email" value="Email:hezuo@iyoovr.com"></item>
+		<item key="wutian" value="Wu Tian China"></item>
+		<item key="xueguan" value="Xue Guan Tong"></item>
+		<item key="item2" value="AR Yi Liao"></item>
+		<item key="item3" value="AR Pu Tuo Shan Dao Lan3"></item>
+		<item key="wutian_scan_title" value="AR Scan"></item>
+		<item key="wutian_scan_desc" value="Please Scan Pu Tuo Shan"></item>
+		<item key="item2_scan_title" value="AR Scan"></item>
+		<item key="item2_scan_desc" value="Please Scan Pu Tuo Shan"></item>
+		<item key="loading_desc" value="Loading Assets {0}"></item>
+		<item key="ok" value="Confirm"></item>
+		<item key="cancel" value="Cancel"></item>
+		<item key="show" value="Show"></item>
+		<item key="hide" value="Hide"></item>
+		<item key="not_in_wifi" value="{0} data need to be downloaded but no WIFI dectected, proceed anyway?"></item>
+	</en>
+</lang>

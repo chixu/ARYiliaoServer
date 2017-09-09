@@ -1,0 +1,21 @@
+<ui>
+	<items>
+		<item title="wutian" desc="wutian_desc" help="/guide/wutian" icon="wutian.png">
+			<trackings>
+				<path src="demo1.xml"/>
+			</trackings>
+			<assetbundles>
+				<path src="myassets.dlc"/>
+			</assetbundles>
+		</item>
+		<item title="xueguan" desc="xueguan_desc" help="/guide/xueguan" icon="xueguan.png">
+			<trackings>
+				<path src="xueguan.xml"/>
+			</trackings>
+			<assetbundles>
+				<path src="xueguan.dlc"/>
+				<path src="xueguan2.dlc"/>
+			</assetbundles>
+		</item>
+	</items>
+</ui>

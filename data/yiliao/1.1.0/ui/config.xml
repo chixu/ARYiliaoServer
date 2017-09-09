@@ -1,0 +1,20 @@
+<config version="1.1.0" preversion="">
+  <trackers>
+    <tracker name="unity">
+      <events>
+        <event name="TrackingStart"/>
+      </events>
+    </tracker>
+    <tracker name="umeng" androidid="59840ff41c5dd0276a002512" iosid="599149f6734be460200018e8">
+    </tracker>
+  </trackers>
+  <update>
+  </update>
+  <all>
+    <path>ui/bg.jpg</path>
+    <path>ui/ui.xml</path>
+    <path>ui/i18n.xml</path>
+    <path>ui/wutian.png</path>
+    <path>ui/xueguan.png</path>
+  </all>
+</config>

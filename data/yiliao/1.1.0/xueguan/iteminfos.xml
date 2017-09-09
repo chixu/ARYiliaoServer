@@ -1,0 +1,15 @@
+<items>
+	<item id="jingmai" type="object" prefab="xueguan">
+		<togglebutton id="jingmai" label="jingmai" show="true" action="showhide"/>
+		<togglebutton id="dongmai" label="dongmai" show="false" action="showhide"/>
+	</item>
+	<item id="heart_movie" type="video" videosrc="heart.mp4" scalez="0.6" scalex="0.9"/>
+	<item id="heart_model_vessel" type="object" prefab="heart" scalez="0.8" scaley="0.8" scalex="0.8"/>
+	<item id="dongmai" type="object" prefab="xueguan">
+		<togglebutton id="jingmai" label="jingmai" show="false" action="showhide"/>
+		<togglebutton id="dongmai" label="dongmai" show="true" action="showhide"/>
+	</item>
+	<item id="xueguan21" type="object" prefab="xueguan2" scalez="2" scaley="2" scalex="2" />
+	<item id="xueguan22" type="video" videosrc="xueguan22.mp4" scalez="0.6" scalex="0.8"/>
+	<item id="xueguan23" type="video" videosrc="xueguan23.mp4" scalez="0.6" scalex="0.9"/>
+</items>

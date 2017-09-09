@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="xueguan21" size="0.300000 0.450000" />
+    <ImageTarget name="xueguan22" size="0.500000 0.318497" />
+    <ImageTarget name="xueguan23" size="0.500000 0.627540" />
+    <ImageTarget name="jingmai" size="0.060000 0.083189" />
+    <ImageTarget name="heart_movie" size="0.060000 0.048000" />
+    <ImageTarget name="heart_model_vessel" size="0.060000 0.047131" />
+    <ImageTarget name="dongmai" size="0.060000 0.147692" />
+    <ImageTarget name="fengrui" size="0.060000 0.073039" />
+  </Tracking>
+</QCARConfig>
