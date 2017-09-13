@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="fengruiblur" size="0.050000 0.060866" />
-    <ImageTarget name="fengrui4" size="0.040000 0.048786" />
-    <ImageTarget name="fengrui5" size="0.050000 0.060964" />
-    <ImageTarget name="heart_model_vessel" size="0.200000 0.157105" />
-    <ImageTarget name="fengrui2" size="0.040000 0.056763" />
-    <ImageTarget name="heart_movie" size="0.200000 0.160000" />
-    <ImageTarget name="fengrui" size="0.050000 0.068912" />
-    <ImageTarget name="jingmai_quanshen" size="0.150000 0.207692" />
-    <ImageTarget name="dongmai_quanshen" size="0.200000 0.492308" />
-    <ImageTarget name="lungs_xueguan" size="0.200000 0.168571" />
+    <ImageTarget name="xueguan21" size="0.300000 0.450000" />
+    <ImageTarget name="xueguan22" size="0.500000 0.318497" />
+    <ImageTarget name="xueguan23" size="0.500000 0.627540" />
+    <ImageTarget name="jingmai" size="0.060000 0.083189" />
+    <ImageTarget name="heart_movie" size="0.060000 0.048000" />
+    <ImageTarget name="heart_model_vessel" size="0.060000 0.047131" />
+    <ImageTarget name="dongmai" size="0.060000 0.147692" />
+    <ImageTarget name="fengrui" size="0.060000 0.073039" />
   </Tracking>
 </QCARConfig>
