@@ -10,7 +10,7 @@
 		<item key="select_phone" value="电话:0571-86660008"></item>
 		<item key="select_email" value="邮箱:hezuo@iyoovr.com"></item>
 		<item key="wutian" value="武 田 中 国"></item>
-		<item key="xueguan" value="血 管 医 疗"></item>
+		<item key="xueguan_title" value="血 管 医 疗"></item>
 		<item key="wutian_desc" value="请扫描武田中国&quot;亚宁定&quot;系列DA"></item>
 		<item key="xueguan_desc" value=""></item>
 		<item key="wutian_target" value="武田中国&quot;亚宁定&quot;系列DA"></item>
@@ -29,6 +29,8 @@
 		<item key="hide" value="隐藏"></item>
 		<item key="jingmai" value="静脉"></item>
 		<item key="dongmai" value="动脉"></item>
+		<item key="guge" value="骨骼"></item>
+		<item key="xueguan2" value="血管"></item>
 		<item key="tiptitle" value="使 用 方 法"/>
 		<item key="tip1" value="1.在{0}上选择识别图片"/>
 		<item key="tip2" value="2.如果没有上述实体图片,可以在&lt;color=#28BFFF&gt;&lt;b&gt;这里&lt;/b&gt;&lt;/color&gt;获取。然后发送到电脑或用其他手机打开，也可以打印出来(黑白彩色均可)"/>

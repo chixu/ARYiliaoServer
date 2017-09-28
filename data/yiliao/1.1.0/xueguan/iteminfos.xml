@@ -9,7 +9,19 @@
 		<togglebutton id="jingmai" label="jingmai" show="false" action="showhide"/>
 		<togglebutton id="dongmai" label="dongmai" show="true" action="showhide"/>
 	</item>
-	<item id="xueguan21" type="object" prefab="xueguan2" scalez="2" scaley="2" scalex="2" />
 	<item id="xueguan22" type="video" videosrc="xueguan22.mp4" scalez="0.6" scalex="0.8"/>
 	<item id="xueguan23" type="video" videosrc="xueguan23.mp4" scalez="0.6" scalex="0.9"/>
+
+	<item id="zdml1" type="video" videosrc="zdml1.mp4" scalez="0.75" scalex="1"/>
+	<item id="zdml2" type="video" videosrc="zdml2.mp4" scalez="0.6" scalex="0.9"/>
+	<item id="zdml3" type="object" prefab="zdml3" scalez="0.6" scalex="0.6" scaley="0.6" upEnabled="0" rightEnabled="0"/>
+	<item id="zdml4" type="video" videosrc="zdml4.mp4" scalez="0.6" scalex="0.9"/>
+	<item id="zdml5" type="object" prefab="zdml5" scalez="0.8" scaley="0.8" scalex="0.8">
+		<togglebutton id="bone" label="guge" show="false" action="showhide"/>
+		<togglebutton id="blood" label="xueguan2" show="true" action="showhide"/>
+	</item>
+	<item id="zdml6" type="video" videosrc="zdml6.mp4" scalez="0.6" scalex="0.9"/>
+	<item id="zdml7" type="video" videosrc="zdml7.mp4" scalez="0.6" scalex="0.9"/>
+	<item id="zdml8" type="video" videosrc="zdml8.mp4" scalez="0.75" scalex="1"/>
+	<item id="zdml9" type="video" videosrc="zdml9.mp4" scalez="0.6" scalex="0.9"/>
 </items>
